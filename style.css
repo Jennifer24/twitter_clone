@@ -1,0 +1,19 @@
+.container-fluid {
+	/*background-image: url("http://www.heyuguys.com/images/2009/11/Alice%20in%20Wonderland%20Banner.jpg");*/
+
+	
+.row heading {
+	color: grey;
+	font: 2m;
+}
+
+
+}
+
+.box {
+	background-color: FFFFFD;
+}
+
+.faded {
+	background-color: #EEF6FF;
+}
